@@ -1,0 +1,9 @@
+{
+  "liveServer.settings.https": {
+    "enable": true,
+    "cert": "/Users/nishizawayuutarou/Documents/program/kintoen_システム/LiveServer/localhost+2.pem",
+    "key": "/Users/nishizawayuutarou/Documents/program/kintoen_システム/LiveServer/localhost+2-key.pem",
+    "passphrase": ""
+  },
+  "liveServer.settings.port": 5515
+}
